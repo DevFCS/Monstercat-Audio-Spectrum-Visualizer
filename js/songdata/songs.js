@@ -157,6 +157,8 @@ AddSong("Pegboard Nerds","Try This","Drumstep","PegboardNerds_TryThis.mp3","img/
 AddSong("Pegboard Nerds","We Are One<br>(Droptek Remix)","Electro","PegboardNerds_WeAreOneDroptekRemix.mp3","img/artists/pegboardnerds.png","monstercat012aftermath")
 AddSong("Pegboard Nerds &<br>MIU","Weaponize","Dubstep","PegboardNerdsAndMIU_Weaponize.mp3","img/artists/pegboardnerds.png","weaponizesingle")
 
+AddSong("POP ETC", "Your Heart Is A Weapon", "EDM", "07 - Your Heart Is a Weapon.mp3", "", "souvenir")
+
 AddSong("Puppet & Foria","I'm Here","Indie Dance","PuppetAndForia_ImHere.mp3","img/artists/puppet.png","imheresingle")
 AddSong("Puppet &<br>The Eden Project","The Fire","Electro","PuppetAndTheEdenProject_TheFire.mp3","img/artists/puppet.png","thefiresingle")
 
