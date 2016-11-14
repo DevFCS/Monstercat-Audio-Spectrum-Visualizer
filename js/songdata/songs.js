@@ -89,10 +89,6 @@ AddSong("Laszlo X WRLD","You & Me","Future Bass","LaszloXWRLD_YouAndMe.mp3","img
 AddSong("Lets Be Friends","FTW","Electro","LetsBeFriends_FTW.mp3","img/artists/letsbefriends.png","ftwsingle")
 AddSong("Lets Be Friends","Manslaughter<br/>(VIP Mix)","Glitch Hop Or 110 BPM","LetsBeFriends_ManslaughterVipMix.mp3","img/artists/letsbefriends.png","monstercat014discovery")
 
-AddSong("Marshmello","Alone","Trap","Marshmello_Alone.mp3","img/artists/marshmello.png","alonesingle")
-AddSong("Marshmello","Alone<br>(MRVLZ Remix)","Future Bass","Marshmello_AloneMRVLZRemix.mp3","img/artists/marshmello.png","alonetheremixes")
-AddSong("Marshmello","Alone<br>(Streex Remix)","Future Bass","Marshmello_AloneStreexRemix.mp3","img/artists/marshmello.png","alonetheremixes")
-
 AddSong("Mitchell Claxton","Koh Samui","Trance","MitchellClaxton_KohSamui.mp3","img/artists/mitchellclaxton.png","monstercat009reunion")
 AddSong("Mitchell Claxton","Wuxia","Trance","MitchellClaxton_Wuxia.mp3","img/artists/mitchellclaxton.png","wuxiasingle")
 
