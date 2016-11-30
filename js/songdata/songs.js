@@ -1,6 +1,9 @@
 //AddSong("Artist Name","Song Name","Genre Name","File lovation in terms of songs/","Image location","Album Name")
 //    "Album Name" should be the same file in img/albums/ to display the image
 
+AddSong("KIVΛ", "Flame Dark", "Dubstep", "kiva - flame dark.mp3", "", "Flame_Dark")
+AddSong("Sian & Ørjan", "Gravitalia", "EDM", "Sian & Ørjan - The Secret Quest.mp3", "/img/artists/sian.jpg", "gravitalia")
+
 AddSong("Aero Chord","4U","Moombahton","AeroChord_4U.mp3","img/artists/aerochord.png","4usingle")
 AddSong("Aero Chord","Boundless","Trap","AeroChord_Boundless.mp3","img/artists/aerochord.png","boundlesssingle")
 AddSong("Aero Chord","Surface","Trap","AeroChord_Surface.mp3","img/artists/aerochord.png","surfacesingle")
@@ -23,9 +26,6 @@ AddSong("Astronaut & Far Too Loud","War<br>(F.O.O.L & Didrick Remix)","Electro",
 
 AddSong("Botnek &<br>I See MONSTAS","Deeper Love","Drum & Bass","BotnekAndISeeMONSTAS_DeeperLove.mp3","img/artists/botnek.png","deeperlovesingle")
 
-AddSong("Case & Point","Fugitive","Electro","CaseAndPoint_Fugitive.mp3","img/artists/caseandpoint.png","fugitivesingle")
-AddSong("Case & Point","Upgrade","Electro","CaseAndPoint_Upgrade.mp3","img/artists/caseandpoint.png","upgradeep")
-
 AddSong("DotEXE","Inside Out","Trap","DotEXE_InsideOut.mp3","img/artists/dotexe.png","insideoutsingle")
 
 AddSong("Draper","Pressure<br>(feat. Laura Brehm)","EDM","Draper_Pressure.mp3","img/artists/draper.png","pressuresingle")
@@ -34,6 +34,8 @@ AddSong("Draper","Ready For Us<br>(feat. Sykes) ","Indie Dance","Draper_ReadyFor
 AddSong("Droptek &<br>Tut Tut Child","Drop That Child","Dubstep","DroptekAndTutTutChild_DropThatChild.mp3","img/artists/tuttutchild.png","dropthatchildsingle")
 
 AddSong("Ephixa & Stephen Walking","Matches<br>(feat. Aaron Richards)","Indie Dance","EphixaAndStephenWalking_Matches.mp3","img/artists/ephixa.png","monstercat5yearanniversary")
+
+AddSong("Flapo<br>(Ft. Layna)", "Ghost", "Electronic", "Flapo_Ghost_feat_Layna.mp3")
 
 AddSong("F.O.O.L","Fairytaler","Dubstep","FOOL_Fairytaler.mp3","img/artists/fool.png","knightep")
 AddSong("F.O.O.L","Feelings<br>(Lets Be Friends Remix)","Electro","FOOL_FeelingsLetsBeFriendsRemix.mp3","img/artists/fool.png","feelingsep")
@@ -67,8 +69,7 @@ AddSong("Hot Date! & Chrisson","To The Sun<br>(feat. Roufaida)","Drum & Bass","H
 
 AddSong("Tristam X Karma Fields","Build The Cities (Empire Of Sound)<br>(feat. Kerli)","Electro","TristamXKarmaFields_BuildTheCitiesEmpireOfSound.mp3","img/artists/karmafields.png","buildthecitiesreconstructions")
 AddSong("Karma Fields","Build The Cities<br>(feat. Kerli)","Electro","KarmaFields_BuildTheCities.mp3","img/artists/karmafields.png","newagedarkage")
-AddSong("Karma Fields","Build The Cities (feat. Kerli)<br>(Project 46 Remix)","Progressive House","KarmaFields_BuildTheCitiesProject46Remix.mp3","img/artists/karmafields.png","buildthecitiesreconstructions")
-AddSong("Karma Fields","Build The Cities (feat. Kerli)<br>(Rootkit Remix)","Future House","KarmaFields_BuildTheCitiesRootkitRemix.mp3","img/artists/karmafields.png","buildthecitiesreconstructions")
+
 AddSong("Karma Fields","Edge Of The World","Electro","KarmaFields_EdgeOfTheWorld.mp3","img/artists/karmafields.png","newagedarkage")
 AddSong("Karma Fields","For Me","Electro","KarmaFields_ForMe.mp3","img/artists/karmafields.png","newagedarkage")
 AddSong("Karma Fields & MORTEN","Stickup (feat. Juliette Lewis)<br>(Modestep Remix)","Drumstep","KarmaFieldsAndMORTEN_StickupModestepRemix.mp3","img/artists/karmafields.png","stickupsingle")
@@ -160,8 +161,6 @@ AddSong("Puppet &<br>The Eden Project","The Fire","Electro","PuppetAndTheEdenPro
 
 AddSong("Razihel","Children Of The Night","Bounce","Razihel_ChildrenOfTheNight.mp3","img/artists/razihel.png","childrenofthenightsingle")
 AddSong("Razihel","Legends","Trap","Razihel_Legends.mp3","img/artists/razihel.png","legendssingle")
-AddSong("Razihel","Legends<br>(Hyper Potions Remix)","Future Bass","Razihel_LegendsHyperPotionsRemix.mp3","img/artists/razihel.png","legendshyperpotionsremixsingle")
-AddSong("Razihel","Legends<br>(Zatox Remix)","Hard Dance","Razihel_LegendsZatoxRemix.mp3","img/artists/razihel.png","legendszatoxremixsingle")
 
 AddSong("Richard Caddock, WRLD, Nitro Fun,<br> Slips & Slurs & Subtact","Break The Silence","Future Bass","RichardCaddockWRLDNitroFunSlipsAndSlursSubtact_BreakTheSilence.mp3","img/artists/richardcaddock.png","monstercat5yearanniversary")
 
@@ -181,8 +180,6 @@ AddSong("Rogue","Through The Dark","Electro","Rogue_ThroughTheDark.mp3","img/art
 
 AddSong("SCNDL","The Munsta","Bounce","SCNDL_TheMunsta.mp3","img/artists/scndl.png","themunstasingle")
 AddSong("SCNDL","The Munsta<br>(AlphavibeZ Remix)","Hard Dance","SCNDL_TheMunstaAlphavibeZRemix.mp3","img/artists/scndl.png","themunstatheremixesep")
-
-AddSong("Snails <br>& Pegboard Nerds","Deep In The Night","Dubstep","SnailsAndPegboardNerds_DeepInTheNight.mp3","img/artists/snails.png","deepinthenightsingle")
 
 AddSong("SMLE","Halo<br>(feat. Helen Tess)","Future Bass","SMLE_Halo.mp3","img/artists/smle.png","halosingle")
 
