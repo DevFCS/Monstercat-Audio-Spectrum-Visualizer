@@ -24,8 +24,6 @@ AddSong("Grabbitz","Friends<br>(feat. Faustix)","Trap","Grabbitz_Friends.mp3","i
 AddSong("Grabbitz","Here With You Now","Dubstep","Grabbitz_HereWithYouNow.mp3","img/artists/grabbitz.png","friendsep")
 AddSong("Grabbitz","Turn Around","Dubstep","Grabbitz_TurnAround.mp3","img/artists/grabbitz.png","friendsep")
 
-AddSong("Grant Bowtie","Reach","Future Bass","GrantBowtie_Reach.mp3","img/artists/grantbowtie.png","reachsingle")
-
 AddSong("Hellberg, Teqq &<br> Taylr Renne","Air<br>(Hellberg's Back To Summer Mix)","Progressive House","HellbergTeqqAndTaylrRenee_AirHellbergsBackToSummerMix.mp3","img/artists/hellberg.png","airhellbergsbacktosummermixsingle")
 AddSong("Hellberg & Rich Edwards","Ashes (Burn Your Love)<br>(feat. Danyka Nadeau)","Progressive House","HellbergAndRichEdwards_AshesBurnYourLove.mp3","img/artists/hellberg.png","ashessingle")
 AddSong("Hellberg","Follow My Heart","Progressive House","Hellberg_FollowMyHeart.mp3","img/artists/hellberg.png","monstercat011revolution")
@@ -87,29 +85,17 @@ AddSong("Rogue","From The Dust","Drumstep","Rogue_FromTheDust.mp3","img/artists/
 AddSong("Rogue","Imperfect Views","EDM","Rogue_ImperfectViews.mp3","img/artists/rogue.png","monstercat5yearanniversary")
 AddSong("Rogue","Moments<br>(feat. Meg Dean)","House","Rogue_Moments.mp3","img/artists/rogue.png","dreamsep")
 AddSong("Rogue","Nightfall","Glitch Hop Or 110 BPM","Rogue_Nightfall.mp3","img/artists/rogue.png","monstercat012aftermath")
-AddSong("Rogue","Rattlesnake","Trap","Rogue_Rattlesnake.mp3","img/artists/rogue.png","rattlesnakesingle")
 AddSong("Rogue","Through The Dark","Electro","Rogue_ThroughTheDark.mp3","img/artists/rogue.png","earthep")
 AddSong("Rogue","Through The Dark","Electro","Rogue_ThroughTheDark.mp3","img/artists/rogue.png","earthep")
-
-AddSong("Stonebank","All Night<br>(feat. EMEL)","Hard Dance","Stonebank_AllNight.mp3","img/artists/stonebank.png","allnightsingle")
-AddSong("Stonebank","Be Alright<br>(feat. EMEL)","Hard Dance","Stonebank_BeAlright.mp3","img/artists/stonebank.png","bealrightsingle")
-AddSong("Stonebank","Chokehold<br>(feat. Concept)","Glitch Hop Or 110 BPM","Stonebank_Chokehold.mp3","img/artists/stonebank.png","monumentep")
-AddSong("Stonebank","Lift You Up<br>(feat. EMEL)","Trance","Stonebank_LiftYouUp.mp3","img/artists/stonebank.png","monstercat5yearanniversary")
-AddSong("Stonebank","Stronger<br>(feat. EMEL)","Hardcore","Stonebank_Stronger.mp3","img/artists/stonebank.png","strongersingle")
-AddSong("Stonebank","The Only One<br>(feat. Ben Clark)","Hardstyle","Stonebank_TheOnlyOne.mp3","img/artists/stonebank.png","theonlyonesingle")
-AddSong("Stonebank","Who's Got Your Love","Happy Hardcore","Stonebank_WhosGotYourLove.mp3","img/artists/stonebank.png","whosgotyourlovesingle")
 
 AddSong("Tristam","Before We Fade","EDM","Tristam_BeforeWeFade.mp3","img/artists/tristam.png","monstercat5yearanniversary")
 AddSong("Tristam","Crave","Electro House","Tristam_Crave.mp3","img/artists/tristam.png","cravesingle")
 AddSong("Tristam & Braken","Flight","Drumstep","TristamAndBraken_Flight.mp3","img/artists/tristam.png","monstercat012aftermath")
 AddSong("Tristam & Braken","Frame Of Mind","Drum & Bass","TristamAndBraken_FrameOfMind.mp3","img/artists/tristam.png","frameofmindsingle")
-AddSong("Tristam","The Vine","Drumstep","Tristam_TheVine.mp3","img/artists/tristam.png","thevinesingle")
 AddSong("Tristam","Once Again","Glitch Hop Or 110 BPM","Tristam_OnceAgain.mp3","img/artists/tristam.png","monstercat016expedition")
 AddSong("Tristam","Till It's Over","Glitch Hop Or 110 BPM","Tristam_TillItsOver.mp3","img/artists/tristam.png","tillitsoversingle")
 AddSong("Tristam","Truth","Electro","Tristam_Truth.mp3","img/artists/tristam.png","monstercat010conquest")
 
-AddSong("Tut Tut Child","Dance To It","Glitch Hop Or 110 BPM","TutTutChild_DanceToIt.mp3","img/artists/tuttutchild.png","dancetoitep")
-AddSong("Tut Tut Child","Dragon Pirates","Drumstep","TutTutChild_DragonPirates.mp3","img/artists/tuttutchild.png","dancetoitep")
 AddSong("Tut Tut Child","Drink Up","Glitch Hop Or 110 BPM","TutTutChild_DrinkUp.mp3","img/artists/tuttutchild.png","drinkupsingle")
 AddSong("Tut Tut Child","Power Fracture","EDM","TutTutChild_PowerFracture.mp3","img/artists/tuttutchild.png","powerfracturesingle")
 AddSong("Tut Tut Child","The Uppity Strut","Glitch Hop Or 110 BPM","TutTutChild_TheUppityStrut.mp3","img/artists/tuttutchild.png","theuppitystrutsingle")
