@@ -5,7 +5,7 @@ AddSong("KIVΛ", "Flame Dark", "Dubstep", "kiva - flame dark.mp3", "", "Flame_Da
 AddSong("Sian & Ørjan", "Gravitalia", "EDM", "Sian & Ørjan - The Secret Quest.mp3", "img/artists/sian.jpg", "gravitalia")
 
 AddSong("Camellia", "Literal Crystal In The Cyphisonia", "Glitch Hop", "Camellia - Literal Crystal In The Cyphisonia (CyphisoniaEP SecretTrack2).mp3", "img/artists/cametek.jpg", "cyphisonia_ep")
-AddSong("BASTION", "New World<br>[ft. Whitemary] (FIBRE Remix)", "Electronic", "BASTION - New World [ft. Whitemary] (FIBRE Remix).wav", "", "newworld")
+AddSong("BASTION", "New World<br>[ft. Whitemary] (FIBRE Remix)", "Electronic", "BASTION - New World [ft. Whitemary] (FIBRE Remix).mp3", "", "newworld")
 AddSong("BASTIOn", "Another Universe<br>Ft. Katelyn Tarver", "Electronic", "01 - Another Universe (feat. Katelyn Tarver).mp3", "another_universe")
 
 AddSong("Au5","Crossroad<br>(feat. Danyka Nadeau)","Trance","Au5_Crossroad.mp3","img/artists/au5.png","crossroadsingle")
