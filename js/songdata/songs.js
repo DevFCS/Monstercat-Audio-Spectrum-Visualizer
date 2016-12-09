@@ -2,7 +2,11 @@
 //    "Album Name" should be the same file in img/albums/ to display the image
 
 AddSong("KIVΛ", "Flame Dark", "Dubstep", "kiva - flame dark.mp3", "", "Flame_Dark")
-AddSong("Sian & Ørjan", "Gravitalia", "EDM", "Sian & Ørjan - The Secret Quest.mp3", "/img/artists/sian.jpg", "gravitalia")
+AddSong("Sian & Ørjan", "Gravitalia", "EDM", "Sian & Ørjan - The Secret Quest.mp3", "img/artists/sian.jpg", "gravitalia")
+
+AddSong("Camellia", "Literal Crystal In The Cyphisonia", "Glitch Hop", "Camellia - Literal Crystal In The Cyphisonia (CyphisoniaEP SecretTrack2).mp3", "img/artists/cametek.jpg", "cyphisonia_ep")
+AddSong("BASTION", "New World<br>[ft. Whitemary] (FIBRE Remix)", "Electronic", "BASTION - New World [ft. Whitemary] (FIBRE Remix).mp3", "", "newworld")
+AddSong("BASTIOn", "Another Universe<br>Ft. Katelyn Tarver", "Electronic", "01 - Another Universe (feat. Katelyn Tarver).mp3", "another_universe")
 
 AddSong("Au5","Crossroad<br>(feat. Danyka Nadeau)","Trance","Au5_Crossroad.mp3","img/artists/au5.png","crossroadsingle")
 AddSong("Au5","Snowblind<br>(feat. Tasha Baxter)","Dubstep","Au5_Snowblind.mp3","img/artists/au5.png","snowblindsingle")
@@ -12,27 +16,11 @@ AddSong("Astronaut","Rain<br>(MitiS Remix)","Drumstep","Astronaut_RainMitiSRemix
 AddSong("Draper","Pressure<br>(feat. Laura Brehm)","EDM","Draper_Pressure.mp3","img/artists/draper.png","pressuresingle")
 AddSong("Draper","Ready For Us<br>(feat. Sykes) ","Indie Dance","Draper_ReadyForUs.mp3","img/artists/draper.png","readyforussingle")
 
-AddSong("Droptek &<br>Tut Tut Child","Drop That Child","Dubstep","DroptekAndTutTutChild_DropThatChild.mp3","img/artists/tuttutchild.png","dropthatchildsingle")
-
-AddSong("Ephixa & Stephen Walking","Matches<br>(feat. Aaron Richards)","Indie Dance","EphixaAndStephenWalking_Matches.mp3","img/artists/ephixa.png","monstercat5yearanniversary")
-
 AddSong("Flapo<br>(Ft. Layna)", "Ghost", "Electronic", "Flapo_Ghost_feat_Layna.mp3")
 
-AddSong("Grabbitz","Better With Time","EDM","Grabbitz_BetterWithTime.mp3","img/artists/grabbitz.png","betterwithtimeep")
-AddSong("Grabbitz","Float Away","Indie Dance","Grabbitz_FloatAway.mp3","img/artists/grabbitz.png","betterwithtimeep")
-AddSong("Grabbitz","Friends<br>(feat. Faustix)","Trap","Grabbitz_Friends.mp3","img/artists/grabbitz.png","friendsep")
-AddSong("Grabbitz","Here With You Now","Dubstep","Grabbitz_HereWithYouNow.mp3","img/artists/grabbitz.png","friendsep")
-AddSong("Grabbitz","Turn Around","Dubstep","Grabbitz_TurnAround.mp3","img/artists/grabbitz.png","friendsep")
-
 AddSong("Hellberg, Teqq &<br> Taylr Renne","Air<br>(Hellberg's Back To Summer Mix)","Progressive House","HellbergTeqqAndTaylrRenee_AirHellbergsBackToSummerMix.mp3","img/artists/hellberg.png","airhellbergsbacktosummermixsingle")
-AddSong("Hellberg & Rich Edwards","Ashes (Burn Your Love)<br>(feat. Danyka Nadeau)","Progressive House","HellbergAndRichEdwards_AshesBurnYourLove.mp3","img/artists/hellberg.png","ashessingle")
-AddSong("Hellberg","Follow My Heart","Progressive House","Hellberg_FollowMyHeart.mp3","img/artists/hellberg.png","monstercat011revolution")
-AddSong("Hellberg","Get Up","Progressive House","Hellberg_GetUp.mp3","img/artists/hellberg.png","monstercat012aftermath")
-AddSong("Hellberg &<br>Rich Edwards","Hands Of Time","Progressive House","HellbergAndRichEdwards_HandsOfTime.mp3","img/artists/hellberg.png","handsoftimesingle")
-AddSong("Hellberg","I'm Not Over<br>(feat. Tash)","Progressive House","Hellberg_ImNotOver.mp3","img/artists/hellberg.png","imnotoversingle")
 AddSong("Hellberg","Saviors","Progressive House","Hellberg_Saviors.mp3","img/artists/hellberg.png","saviorssingle")
 AddSong("Hellberg","The Girl<br>(feat. Cozi Zeuhlsdoff)","Progressive House","Hellberg_TheGirl.mp3","img/artists/hellberg.png","thisismeep")
-AddSong("Hellberg","The Girl (feat. Cozi Zeuhlsdoff)<br>(Color Source Remix)","Future Bass","Hellberg_TheGirlColorSourceRemix.mp3","img/artists/hellberg.png","thegirltheremixes")
 
 AddSong("Tristam X Karma Fields","Build The Cities (Empire Of Sound)<br>(feat. Kerli)","Electro","TristamXKarmaFields_BuildTheCitiesEmpireOfSound.mp3","img/artists/karmafields.png","buildthecitiesreconstructions")
 AddSong("Karma Fields","Build The Cities<br>(feat. Kerli)","Electro","KarmaFields_BuildTheCities.mp3","img/artists/karmafields.png","newagedarkage")
@@ -48,14 +36,8 @@ AddSong("Laszlo","Don't Look Down","Drum & Bass","Laszlo_DontLookDown.mp3","img/
 AddSong("Laszlo","Fall To Light","Progressive House","Laszlo_FallToLight.mp3","img/artists/laszlo.png","falltolightsingle")
 AddSong("Laszlo","Here We Are","Drum & Bass","Laszlo_HereWeAre.mp3","img/artists/laszlo.png","herewearesingle")
 AddSong("Laszlo","Home<br>(feat. Richard Caddock)","Progressive House","Laszlo_Home.mp3","img/artists/laszlo.png","homesingle")
-AddSong("Laszlo","Interstellar","Progressive House","Laszlo_Interstellar.mp3","img/artists/laszlo.png","interstellarsingle")
-AddSong("Laszlo","Sphere","Progressive House","Laszlo_Sphere.mp3","img/artists/laszlo.png","spheresingle")
-AddSong("Laszlo","Supernova","Electro","Laszlo_Supernova.mp3","img/artists/laszlo.png","supernovasingle")
-AddSong("Laszlo","Tribal","House","Laszlo_Tribal.mp3","img/artists/laszlo.png","monstercat5yearanniversary")
 AddSong("Laszlo X WRLD","You & Me","Future Bass","LaszloXWRLD_YouAndMe.mp3","img/artists/laszlo.png","youandmesingle")
 
-AddSong("Mitchell Claxton","Koh Samui","Trance","MitchellClaxton_KohSamui.mp3","img/artists/mitchellclaxton.png","monstercat009reunion")
-AddSong("Mitchell Claxton","Wuxia","Trance","MitchellClaxton_Wuxia.mp3","img/artists/mitchellclaxton.png","wuxiasingle")
 
 AddSong("Muzzy & Day One","Black Magic","Drum & Bass","MuzzyAndDayOne_BlackMagic.mp3","img/artists/muzzy.png","monstercat008anniversary")
 AddSong("Muzzy","Calling Out<br>(feat. KG & Skyelle)","Drum & Bass","Muzzy_CallingOut.mp3","img/artists/muzzy.png","callingoutsingle")
