@@ -8,7 +8,7 @@ AddSong("Camellia", "Literal Crystal In The Cyphisonia", "Glitch Hop", "Camellia
 AddSong("BASTION", "New World<br>[ft. Whitemary] (FIBRE Remix)", "Electronic", "BASTION - New World [ft. Whitemary] (FIBRE Remix).mp3", "", "newworld")
 AddSong("BASTIOn", "Another Universe<br>Ft. Katelyn Tarver", "Electronic", "01 - Another Universe (feat. Katelyn Tarver).mp3", "another_universe")
 
-AddSong("Waveshaper", "Sounds that Kill", "Electro", "Waveshaper - Sounds that Kill - 01 Awakening.mp3")
+AddSong("Waveshaper", "Sounds that Kill", "Electro", "Waveshaper - Sounds that Kill - 01 Awakening.mp3", "img/artists/waveshaper.jpg", "soundsthatkill")
 
 AddSong("Au5","Crossroad<br>(feat. Danyka Nadeau)","Trance","Au5_Crossroad.mp3","img/artists/au5.png","crossroadsingle")
 AddSong("Au5","Snowblind<br>(feat. Tasha Baxter)","Dubstep","Au5_Snowblind.mp3","img/artists/au5.png","snowblindsingle")
