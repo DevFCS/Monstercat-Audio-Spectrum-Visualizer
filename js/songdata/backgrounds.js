@@ -69,18 +69,8 @@ RegisterBackground("Karma Fields","Artist",[["img/blankpixel.png",3840,2160,"#E8
 RegisterBackground("Karma Fields & MORTEN","Artist",[["img/blankpixel.png",3840,2160,"#E8E8E8"]],"#000000",KarmaFieldsEnvironmentChanges)
 RegisterBackground("Tristam X Karma Fields","Artist",[["img/blankpixel.png",3840,2160,"#E8E8E8"]],"#000000",KarmaFieldsEnvironmentChanges)
 
-RegisterBackground("Airglow","Song",[["img/backgrounds/airglowbackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
-
 RegisterBackground("fminorfactoryep","Album",[["img/backgrounds/fminorfactoryepbackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
 RegisterBackground("Crescendo (feat. MYLK)","Song",[["img/backgrounds/crescendobackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
-
-RegisterBackground("This Feeling","Song",[["img/backgrounds/thisfeelingbackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
-
-RegisterBackground("Blackout","Song",[["img/backgrounds/blackoutbackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
-RegisterBackground("pinkcloudep","Album",[["img/backgrounds/pinkcloudbackground1.jpg",3840,2160,"rgba(0,0,0,0.5)"],["img/backgrounds/pinkcloudbackground2.jpg",3840,2160,"rgba(0,0,0,0.5)"],["img/backgrounds/pinkcloudbackground3.jpg",3840,2160,"rgba(0,0,0,0.5)"]],"#F6B4D9")
-RegisterBackground("pinkcloudtheremixes","Album",[["img/backgrounds/pinkcloudbackground1.jpg",3840,2160,"rgba(0,0,0,0.5)"],["img/backgrounds/pinkcloudbackground2.jpg",3840,2160,"rgba(0,0,0,0.5)"],["img/backgrounds/pinkcloudbackground3.jpg",3840,2160,"rgba(0,0,0,0.5)"]],"#F6B4D9")
-RegisterBackground("thelosttracksep","Album",[["img/backgrounds/thelosttracksbackground.png",1920,1080,"rgba(0,0,0,0)"]],null)
-
 RegisterBackground("Break The Silence","Song",[["img/backgrounds/breakthesilencebackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
 
 RegisterBackground("Imperfect Views","Song",[["img/backgrounds/imperfectviewsbackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
@@ -102,3 +92,5 @@ RegisterBackground("Who's Got Your Love","Song",[["img/backgrounds/whosgotyourlo
 RegisterBackground("Before We Fade","Song",[["img/backgrounds/beforewefadebackground.png",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
 
 RegisterBackground("miraisekaiep","Album",[["img/backgrounds/miraisekaibackground.jpg",1920,1080,"rgba(0,0,0,0)"]],"#FFFFFF",PureWhiteEnvironmentChanges)
+
+RegisterBackground("Awakening", "Song", [["img/backgrounds/soundsthatkill.png",1920,1080,"rgba(0,0,0,0)"]])
